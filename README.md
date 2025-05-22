@@ -4,6 +4,6 @@ Chuanhao Li, Wenbo Ye, Zhen Li, Yuwei Wu, Yunde Jia
 [[paper]]()  
 [[supplementary material]]()
 
-## GQA-CCG Dataset
+## GQA-MSCG Dataset
 [[OneDrive]()]  
 [[Baidu NetDisk (password: DSPS)]()]
